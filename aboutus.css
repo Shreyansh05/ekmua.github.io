@@ -59,7 +59,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	overflow-x: hidden;
+	overflow-x: hidden!important;
   }
   
   
@@ -101,7 +101,7 @@ body {
 .image{
     background: url("img1/img52.jpg") center/cover no-repeat;
 	height: 350px;
-	width:350px;
+	width:300px;
     
 }
 .content{
