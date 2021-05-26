@@ -100,8 +100,8 @@ body {
 }
 .image{
     background: url("img1/img52.jpg") center/cover no-repeat;
-	height: 500px;
-	width:500px;
+	height: 350px;
+	width:350px;
     
 }
 .content{
@@ -110,7 +110,7 @@ body {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-	margin-top: 30px;
+	
 }
 .content h2{
     text-transform: uppercase;
@@ -118,12 +118,13 @@ body {
     font-size: 36px;
     letter-spacing: 6px;
     opacity: 0.9;
+	margin-top: 40px;
 }
 .content span{
     height: 0.5px;
     width: 80px;
     background: #777;
-    margin: 30px 0;
+    
 }
 .content p{
     padding-bottom: 15px;
@@ -194,11 +195,12 @@ body {
     }
     .content{
         height: 100vh;
-		margin-top: 100px;
+		margin-top: 180px;
+		
     }
     .content h2{
         font-size: 20px;
-        margin-top: 50px;
+        margin-top: 80px!important;
     }
     .content span{
         margin: 20px 0;
@@ -207,7 +209,7 @@ body {
         font-size: 14px;
     }
 	.sec{
-		margin-bottom: 35px!important;
+		margin-bottom: 300px!important;
 	}
     .links li a{
         font-size: 14px;
