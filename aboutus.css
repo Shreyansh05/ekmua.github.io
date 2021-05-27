@@ -100,8 +100,8 @@ body {
 }
 .image{
     background: url("img2/img52.jpg") center/cover no-repeat;
-	height: 350px;
-	width:375px;
+	height: 350px!important;
+	width:375px!important;
     
 }
 .content{
