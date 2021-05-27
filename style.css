@@ -6,7 +6,7 @@
 }
 .navbar-light .navbar-brand {
 	color: #fff;
-	font-size: 25px;
+	font-size: 5px;
 	text-transform: uppercase;
 	font-weight: bold;
 	letter-spacing: 2px;
@@ -530,8 +530,39 @@ hr{
 	  
   }
 
+.reviewbox{
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+.review{
+	text-align: center;
+	font-size: 30px;
+	padding: 10px;
+	padding: 20px;
+	text-align: center;
 
 
+}
+.b1{
+	background-color:black;
+	color:cornsilk;
+	padding: 20px;
+	text-align: center;
+	display: inline-block;
+	cursor: pointer;
+	
+}
+
+.b2{
+	background-color: black;
+	color:white;
+	padding: 20px;
+	text-align: center;
+	display: inline-block;
+	cursor: pointer;
+	
+	
+}
 
 
 
