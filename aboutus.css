@@ -191,7 +191,7 @@ body {
         width: 100%;
     }
     .image{
-        height: 100vh;
+        height: 350!important;
 		width: 380px!important;
     }
     .content{
