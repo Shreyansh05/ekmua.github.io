@@ -110,9 +110,18 @@ hr{
   }
 
 
+.morepic{
+	text-align: center;
+	font-size: 30px;
+	background-color: rgb(17, 16, 16);
+	color: cornsilk;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
-
-
+.iframe{
+	overflow-y: hidden!important;
+	overflow-x: hidden!important;
+}
 
   
 
