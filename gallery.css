@@ -117,6 +117,11 @@ hr{
 	color: cornsilk;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.morepic p{
+	font-size: 15px;
+	background-color: cornsilk;
+	color: black;
+}
 
 .iframe{
 	overflow-y: hidden!important;
